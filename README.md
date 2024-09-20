@@ -13,6 +13,19 @@
 
 ## Tech Stack
 
+| Technology      | Description                 | Icon                                                                                                                      |
+|-----------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **React**       | Front-end framework         | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                       |
+| **Socket.IO**   | Real-time communication     | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)           |
+| **Express**     | Back-end framework          | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)                                            |
+| **Tailwind CSS**| CSS framework               | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    |
+| **Node.js**     | Back-end environment        | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)                  |
+| **React Icons** | Icon library                | ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react)                            |
+| **Lucid Icon**  | Icon library                | ![Lucid Icon](https://img.shields.io/badge/Lucid_Icons-yellow?style=for-the-badge&logo=react)                             |
+
+
+## Tech Stack
+
 - **Socket.IO**: For real-time communication.
 - **Express**: Back-end framework to handle server requests.
 - **Tailwind CSS**: For styling and responsive design.
