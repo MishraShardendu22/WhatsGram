@@ -1,6 +1,6 @@
-# [WhatsGram2.0](https://whatsgram2-0-front-1.onrender.com/)
+# [WhatsGram](https://whatsgram2-0-front-1.onrender.com/)
 
-**WhatsGram2.0** is a real-time chat application where users can connect and chat with others on the platform. It provides a seamless experience for sending and receiving messages.
+**WhatsGram** is a real-time chat application where users can connect and chat with others on the platform. It provides a seamless experience for sending and receiving messages.
 
 **Original Playlist Working at**: [Real Time Chat Application](https://github.com/MishraShardendu22/Real-Time-Chat-Application)
 
@@ -15,14 +15,12 @@
 
 ## Tech Stack
 
-| Technology         | Description                 | Icon                                                                                                                      |
-|--------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Technology         | Description                  | Icon                                                                                                                      |
+|--------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | **React**          | Front-end framework          | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                       |
 | **Express**        | Back-end framework           | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)                                            |
 | **Tailwind CSS**   | CSS framework                | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    |
 | **Node.js**        | Back-end environment         | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)                  |
-| **shadcn**         | UI components framework      | ![shadcn](https://img.shields.io/badge/shadcn_UI-gray?style=for-the-badge)                                                |
-| **Acentricity UI** | Design system for React apps | ![Acentricity UI](https://img.shields.io/badge/Acentricity_UI-blue?style=for-the-badge)                                   |
 | **React Icons**    | Icon library                 | ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react)                            |
 | **Lucid Icon**     | Icon library                 | ![Lucid Icon](https://img.shields.io/badge/Lucid_Icons-yellow?style=for-the-badge&logo=react)                             |
 
